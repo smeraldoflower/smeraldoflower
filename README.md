@@ -15,7 +15,7 @@
 📚✍🎮 Other than that, in my free time, I also enjoy learning about different languages/cultures and optimizing (min-max) my progress in several different strategic games. 
 
 - 🔭 I’m currently working on React.js /React Native personal projects
-- 🌱 I’m currently learning React Native, Node.js, Express.js
+- 🌱 I’m currently learning React Native, Node.js, Express.js, Tesseract.js
 - 👯 I’m looking to collaborate on fun projects based in the MERN stack
 - 🤔 I’m looking for help with adopting the most efficient development practices
 - 📫 How to reach me: via Email (ifnusaibamahmood@gmail.com) or [LinkedIn](https://www.linkedin.com/in/iffatnusaibamahmood/)
