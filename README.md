@@ -14,9 +14,9 @@
 
 📚✍🎮 Other than that, in my free time, I also enjoy learning about different languages/cultures and optimizing my progress in several different strategic games. 
 
-- 🔭 I’m currently working on React.js /React Native personal projects
-- 🌱 I’m currently learning React Native, Node.js, Express.js, Tesseract.js
-- 👯 I’m looking to collaborate on fun projects based in the MERN stack
-- 🤔 I’m looking for help with adopting the most efficient development practices
+- 🔭 I’m currently working on React.js /React Native personal projects along with Unity/C# on corporate projects.
+- 🌱 I’m currently learning Unity, Bubble.io, React Native, Node.js,
+- 👯 I’m looking to collaborate on fun projects based in the MERN tech stack
+- 🤔 I’m looking for help with adopting the most efficient development practices in Unity
 - 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/iffatnusaibamahmood/)
 - 😄 Pronouns: she/her
