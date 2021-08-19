@@ -12,7 +12,7 @@
 
 🌐 Before coming to the United States to study, I spent the former part of my life in Dubai, U.A.E where I grew up in a very multicultural community. And so I believe that my upbringing and life experiences so far would bring a unique form of diverse insight to any project or corporation.
 
-📚✍🎮 Other than that, in my free time, I also enjoy learning about different languages/cultures and optimizing (min-max) my progress in several different strategic games. 
+📚✍🎮 Other than that, in my free time, I also enjoy learning about different languages/cultures and optimizing my progress in several different strategic games. 
 
 - 🔭 I’m currently working on React.js /React Native personal projects
 - 🌱 I’m currently learning React Native, Node.js, Express.js, Tesseract.js
