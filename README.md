@@ -6,7 +6,7 @@
 
 🐬 Honesty, Commitment, and Open-Mindedness are the core values I work by.
 
-🎓 I recently graduated from Bradley University with a Bachelor of Science in Computer Science, and a Bachelor of Arts in French.
+🎓 I recently graduated with a Bachelor of Science in Computer Science, and a Bachelor of Arts in French. Currently pursuing a Master of Science in Computer Science.
 
 💻🕶🎨 I would love to pursue a career in Software Engineering/Full Stack Development because I see it as a very unique field of work where I can apply both my logic and creativity in equal parts.
 
