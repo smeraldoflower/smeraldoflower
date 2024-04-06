@@ -12,7 +12,7 @@
 
 🌐 Before coming to the United States to study, I spent the former part of my life in Dubai, U.A.E where I grew up in a very multicultural community.
 
-📚✍🎮 As other hobbies, I also enjoy learning about different languages/cultures and playing/streaming my favourite games on twitch.
+📚✍🎮 As other hobbies, I also enjoy learning about different languages/cultures and playing/streaming my favourite games.
 
 - 🔭 I’m currently working on a Machine Learning/Facial Recognition course project.
 - 🌱 I’m currently learning how to use Python, Tkinter, OpenCV, as part of the course project.
