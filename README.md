@@ -1,4 +1,4 @@
-## Hello World! 👋 I'm Nushu
+## Hello World! 👋 I'm Nusaiba
 
 💭 I am an innovation-focused full-stack developer with a strong enthusiasm for learning and creating.
 
