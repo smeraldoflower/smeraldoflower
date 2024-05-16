@@ -14,6 +14,6 @@
 
 📚✍🎮 As other hobbies, I also enjoy learning about different languages/cultures and playing/streaming my favourite games.
 
-- 🔭 I’m currently working on a Machine Learning/Facial Recognition course project.
-- 🌱 I’m currently learning how to use Python, Tkinter, OpenCV, as part of the course project.
+- 🔭 I’m currently working on a Java texting application project.
+- 🌱 I’m currently learning how to setup and complete a JavaFX project, and socket programming.
 - 😄 Pronouns: she/her
