@@ -14,6 +14,6 @@
 
 📚✍🎮 As other hobbies, I also enjoy learning about different languages/cultures and playing/streaming my favourite games.
 
-- 🔭 I’m currently working on a Java texting application project.
-- 🌱 I’m currently learning how to setup and complete a JavaFX project, and socket programming.
+- 🔭 I’m currently working on a Robotics course project, and a Website development project.
+- 🌱 I’m currently learning Robotics programming on Arduino and improving my knowledge of Python.
 - 😄 Pronouns: she/her
