@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on a portfolio update.
 - 🌱 I’m currently learning digital art.
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her/they/them
